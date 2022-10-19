@@ -49,11 +49,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/_ctzhid' // ig
+global.sig = 'https://instagram.com/axvrdnsy_' // ig
 global.sgh = 'https://github.com/WH-MODS-BOT/' // github
-global.sgc = 'https://chat.whatsapp.com/FQkbyTEfvES3D363uxMEFOI' // group whatsapp
+global.sgc = 'https://chat.whatsapp.com/D31KLqwEyVYD0iB5ovE0R1' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
+global.snh = 'https://m.youtube.com/channel/UCbOxJei9vzoqdqPntREYU7A/' // my youtube channel
 global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
@@ -67,7 +67,7 @@ global.ppulsa2 = '085727901873' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.co/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62XXXXXXXXXXX'
+global.nomorbot = '6288225186055'
 global.nomorown = '6285727901873'
 global.namebot = '𝗖𝗔𝗠𝗘𝗟 𝗕𝗢𝗧'
 global.nameown = '𝕏𝕥𝕣𝕚𝕡'
